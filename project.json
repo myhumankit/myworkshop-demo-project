@@ -21,18 +21,22 @@
         "steps": [
             {
                 "title": "assemblage",
+                "duration": 5,
                 "content": "Rassembler les élements de la fusée et les monter selon le plan."
             },
             {
                 "title": "remplir les réservoirs",
+                "duration": 1,
                 "content": "Aller à la station la plus proche et faire le plein."
             },
             {
                 "title": "allumage",
+                "duration": "0.5",
                 "content": "Faire chauffer les moteurs et attacher sa ceinture."
             },
             {
                 "title": "décollage",
+                "duration": 0,
                 "content": "Appuyer sur start, et c'est parti !"
             }
         ]
