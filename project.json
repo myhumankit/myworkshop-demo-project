@@ -11,23 +11,34 @@
             "url": "https://github.com/myhumankit/myworkshop-demo-project",
             "title": "GitHub repository"
         }],
-        "contributors": [
-            {
-                "full_name": "Julien Lebunetel",
-                "email": "julien@myhumankit.org",
-                "role": "FabManager référent"
-            }
-        ],
-        "steps": [
-            {
+        "contributors": [{
+            "full_name": "Julien Lebunetel",
+            "email": "julien@myhumankit.org",
+            "role": "FabManager référent"
+        }],
+        "steps": [{
                 "title": "assemblage",
                 "duration": 5,
-                "content": "Rassembler les élements de la fusée et les monter selon le plan."
+                "content": "Rassembler les élements de la fusée et les monter selon le plan.",
+                "tools": [{
+                    "id": "9bb98b6d-3db0-406d-9f6e-d01106c2986c"
+                }, {
+                    "id": "14581670-4247-4ec8-be8e-fe245de66983"
+                }]
             },
             {
                 "title": "remplir les réservoirs",
                 "duration": 1,
-                "content": "Aller à la station la plus proche et faire le plein."
+                "content": "Aller à la station la plus proche et faire le plein.",
+                "components": [{
+                        "id": "96f810e8-c9df-4dbf-94d4-35890807e9f9",
+                        "quantity": 5000
+                    },
+                    {
+                        "id": "1a2eac24-5dc0-4643-bcc7-fb33b481f48d",
+                        "quantity": 3
+                    }
+                ]
             },
             {
                 "title": "allumage",
