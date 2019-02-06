@@ -4,9 +4,30 @@
         "slug": "myworkshop-demo-project",
         "short_description": "Un vaisseau spacial pour partir à la conquête du monde !",
         "lang": "fr-fr",
-        "version": "0.1.0",
         "featured_image": {
             "url": "images/rocket.jpg"
-        }
+        },
+        "links": [{
+            "url": "https://github.com/myhumankit/myworkshop-demo-project",
+            "title": "GitHub repository"
+        }],
+        "steps": [
+            {
+                "title": "assemblage",
+                "content": "Rassembler les élements de la fusée et les monter selon le plan."
+            },
+            {
+                "title": "remplir les réservoirs",
+                "content": "Aller à la station la plus proche et faire le plein."
+            },
+            {
+                "title": "allumage",
+                "content": "Faire chauffer les moteurs et attacher sa ceinture."
+            },
+            {
+                "title": "décollage",
+                "content": "Appuyer sur start, et c'est parti !"
+            }
+        ]
     }
 }
