@@ -1,0 +1,13 @@
+{
+    "data": {
+        "myworkshop_version": "0.1.0",
+        "full_name": "Fusée intergalactique",
+        "slug": "myworkshop-demo-project",
+        "short_description": "Un vaisseau spacial pour partir à la conquête du monde !",
+        "lang": "fr-fr",
+        "version": "0.1.0",
+        "featured_image": {
+            "url": "images/rocket.jpg"
+        }
+    }
+}
