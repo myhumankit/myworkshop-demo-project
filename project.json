@@ -16,10 +16,18 @@
             "email": "julien@myhumankit.org",
             "role": "FabManager référent"
         }],
+        "libraries": [{
+            "organisation": "myhumankit",
+            "repository": "myworkshop-components-library"
+        }],
         "steps": [{
                 "title": "assemblage",
                 "duration": 5,
                 "content": "Rassembler les élements de la fusée et les monter selon le plan.",
+                "components": [{
+                    "name": "fusée en kit",
+                    "quantity": 1
+                }],
                 "tools": [{
                     "id": "9bb98b6d-3db0-406d-9f6e-d01106c2986c"
                 }, {
