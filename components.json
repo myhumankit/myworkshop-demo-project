@@ -1,0 +1,17 @@
+{
+    "components": [
+        {
+            "id": "96f810e8-c9df-4dbf-94d4-35890807e9f9",
+            "name": "hydrogène liquide",
+            "unit": "Litres"
+        },
+        {
+            "id": "1a2eac24-5dc0-4643-bcc7-fb33b481f48d",
+            "name": "Ardunino Uno",
+            "cost": "25",
+            "currency": "euro",
+            "currency_symbol": "€",
+            "short_description": "Une carte électronique a micro-controleur facile à programmer."
+        }
+    ]
+}
