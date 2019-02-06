@@ -11,6 +11,13 @@
             "url": "https://github.com/myhumankit/myworkshop-demo-project",
             "title": "GitHub repository"
         }],
+        "contributors": [
+            {
+                "full_name": "Julien Lebunetel",
+                "email": "julien@myhumankit.org",
+                "role": "FabManager référent"
+            }
+        ],
         "steps": [
             {
                 "title": "assemblage",
