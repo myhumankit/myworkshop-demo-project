@@ -12,14 +12,15 @@
             "title": "GitHub repository"
         }],
         "contributors": [{
-            "full_name": "Julien Lebunetel",
-            "email": "julien@myhumankit.org",
-            "role": "FabManager référent"
-        },
-        {
-            "full_name": "Delphine",
-            "role": "Porteur de projet"
-        }],
+                "full_name": "Julien Lebunetel",
+                "email": "julien@myhumankit.org",
+                "role": "FabManager référent"
+            },
+            {
+                "full_name": "Delphine",
+                "role": "Porteur de projet"
+            }
+        ],
         "libraries": [{
             "organisation": "myhumankit",
             "repository": "myworkshop-components-library"
@@ -55,7 +56,10 @@
             {
                 "title": "allumage",
                 "duration": 0.5,
-                "content": "Faire chauffer les moteurs et attacher sa ceinture."
+                "content": "Faire chauffer les moteurs et attacher sa ceinture.",
+                "images": [{
+                    "url": "images/rocket.jpg"
+                }]
             },
             {
                 "title": "décollage",
