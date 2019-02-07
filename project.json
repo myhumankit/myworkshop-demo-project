@@ -15,6 +15,10 @@
             "full_name": "Julien Lebunetel",
             "email": "julien@myhumankit.org",
             "role": "FabManager référent"
+        },
+        {
+            "full_name": "Delphine"
+            "role": "Porteur de projet"
         }],
         "libraries": [{
             "organisation": "myhumankit",
