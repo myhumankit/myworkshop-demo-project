@@ -71,7 +71,12 @@
             {
                 "title": "décollage",
                 "duration": 0,
-                "content": "Appuyer sur start, et c'est parti !"
+                "content": "Appuyer sur start, et c'est parti !",
+                "skills":[
+                    {
+                        "name": "pilotage"
+                    }
+                ]
             }
         ]
     }
