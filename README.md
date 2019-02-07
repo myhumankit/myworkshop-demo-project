@@ -1,2 +1,2 @@
 # myworkshop-demo-project
-A demo project for myqorkshop documentation generator.
+A demo project for myworkshop documentation generator.
