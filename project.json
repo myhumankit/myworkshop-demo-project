@@ -51,6 +51,12 @@
                         "id": "1a2eac24-5dc0-4643-bcc7-fb33b481f48d",
                         "quantity": 3
                     }
+                ],
+                "alerts": [
+                    {
+                        "message": "Attention au lion !",
+                        "class": "danger"
+                    }
                 ]
             },
             {
