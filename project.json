@@ -58,7 +58,8 @@
                 "duration": 0.5,
                 "content": "Faire chauffer les moteurs et attacher sa ceinture.",
                 "images": [{
-                    "url": "images/rocket.jpg"
+                    "url": "images/rocket.jpg",
+                    "caption": "Ça chauffe !"
                 }]
             },
             {
