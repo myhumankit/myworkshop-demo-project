@@ -34,10 +34,28 @@
                     "quantity": 1
                 }],
                 "tools": [{
-                    "id": "9bb98b6d-3db0-406d-9f6e-d01106c2986c"
-                }, {
-                    "id": "14581670-4247-4ec8-be8e-fe245de66983"
-                }]
+                        "id": "9bb98b6d-3db0-406d-9f6e-d01106c2986c"
+                    },
+                    {
+                        "id": "14581670-4247-4ec8-be8e-fe245de66983"
+                    },
+                    {
+                        "generic_name": "3D printer"
+                    }
+                ],
+                "images": [{
+                        "url": "https://picsum.photos/900/600/?random"
+                    },
+                    {
+                        "url": "https://picsum.photos/900/600/?random"
+                    },
+                    {
+                        "url": "https://picsum.photos/900/600/?random"
+                    },
+                    {
+                        "url": "https://picsum.photos/900/600/?random"
+                    }
+                ]
             },
             {
                 "title": "remplir les réservoirs",
@@ -52,12 +70,10 @@
                         "quantity": 3
                     }
                 ],
-                "alerts": [
-                    {
-                        "message": "Attention au lion !",
-                        "class": "danger"
-                    }
-                ]
+                "alerts": [{
+                    "message": "Attention au lion !",
+                    "class": "danger"
+                }]
             },
             {
                 "title": "allumage",
@@ -72,11 +88,9 @@
                 "title": "décollage",
                 "duration": 0,
                 "content": "Appuyer sur start, et c'est parti !",
-                "skills":[
-                    {
-                        "name": "pilotage"
-                    }
-                ]
+                "skills": [{
+                    "name": "pilotage"
+                }]
             }
         ]
     }
