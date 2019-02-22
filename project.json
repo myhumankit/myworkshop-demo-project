@@ -7,11 +7,14 @@
         "featured_image": {
             "url": "images/rocket.jpg"
         },
-        "links": [{
-            "url": "https://github.com/myhumankit/myworkshop-demo-project",
-            "title": "GitHub repository"
-        }],
-        "contributors": [{
+        "links": [
+            {
+                "url": "https://github.com/myhumankit/myworkshop-demo-project",
+                "title": "GitHub repository"
+            }
+        ],
+        "contributors": [
+            {
                 "full_name": "Julien Lebunetel",
                 "email": "julien@myhumankit.org",
                 "role": "Fabmanager référent"
@@ -21,19 +24,25 @@
                 "role": "Porteur de projet"
             }
         ],
-        "libraries": [{
-            "organisation": "myhumankit",
-            "repository": "myworkshop-components-library"
-        }],
-        "steps": [{
+        "libraries": [
+            {
+                "organisation": "myhumankit",
+                "repository": "myworkshop-components-library"
+            }
+        ],
+        "steps": [
+            {
                 "title": "assemblage",
-                "duration": 5,
                 "content": "Rassembler les élements de la fusée et les monter selon le plan.",
-                "components": [{
-                    "name": "fusée en kit",
-                    "quantity": 1
-                }],
-                "tools": [{
+                "duration": 5,
+                "components": [
+                    {
+                        "name": "fusée en kit",
+                        "quantity": 1
+                    }
+                ],
+                "tools": [
+                    {
                         "id": "9bb98b6d-3db0-406d-9f6e-d01106c2986c"
                     },
                     {
@@ -43,7 +52,8 @@
                         "generic_name": "3D printer"
                     }
                 ],
-                "images": [{
+                "images": [
+                    {
                         "url": "https://picsum.photos/900/600/?random"
                     },
                     {
@@ -56,41 +66,6 @@
                         "url": "https://picsum.photos/900/600/?random"
                     }
                 ]
-            },
-            {
-                "title": "remplir les réservoirs",
-                "duration": 1,
-                "content": "Aller à la station la plus proche et faire le plein.",
-                "components": [{
-                        "id": "96f810e8-c9df-4dbf-94d4-35890807e9f9",
-                        "quantity": 5000
-                    },
-                    {
-                        "id": "1a2eac24-5dc0-4643-bcc7-fb33b481f48d",
-                        "quantity": 3
-                    }
-                ],
-                "alerts": [{
-                    "message": "Attention au lion !",
-                    "class": "danger"
-                }]
-            },
-            {
-                "title": "allumage",
-                "duration": 0.5,
-                "content": "Faire chauffer les moteurs et attacher sa ceinture.",
-                "images": [{
-                    "url": "images/rocket.jpg",
-                    "caption": "Ça chauffe !"
-                }]
-            },
-            {
-                "title": "décollage",
-                "duration": 0,
-                "content": "Appuyer sur start, et c'est parti !",
-                "skills": [{
-                    "name": "pilotage"
-                }]
             }
         ]
     }
