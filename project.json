@@ -35,7 +35,7 @@
         "steps": [
             {
                 "title": "assemblage",
-                "duration": "05:00",
+                "duration": 300,
                 "content": [
                     {
                         "paragraph": {
@@ -58,7 +58,7 @@
             },
             {
                 "title": "remplir les réservoirs",
-                "duration": "01:00",
+                "duration": 3600,
                 "content": [
                     {
                         "paragraph": {
@@ -69,7 +69,7 @@
             },
             {
                 "title": "allumage",
-                "duration": "00:05",
+                "duration": 300,
                 "content": [
                     {
                         "paragraph": {
