@@ -4,66 +4,83 @@
         "slug": "myworkshop-demo-project",
         "short_description": "Un vaisseau spacial pour partir à la conquête du monde !",
         "lang": "fr",
+        "license": "CC BY",
+        "about": {
+            "paragraph": {
+                "content": "Et pourquoi ne pas construire une fusée ?"
+            }
+        },
         "featured_image": {
-            "url": "images/rocket.jpg"
+            "image": {
+                "url": "images/rocket.jpg",
+                "caption": "Fusée"
+            }
         },
         "links": [
             {
                 "url": "https://github.com/myhumankit/myworkshop-demo-project",
-                "title": "GitHub repository"
+                "text": "GitHub repository",
+                "fa5_icon": "fab fa-github"
             }
         ],
         "contributors": [
             {
                 "full_name": "Julien Lebunetel",
+                "role": "Porteur de projet",
                 "email": "julien@myhumankit.org",
-                "role": "Fabmanager référent"
-            },
-            {
-                "full_name": "Delphine",
-                "role": "Porteur de projet"
-            }
-        ],
-        "libraries": [
-            {
-                "organisation": "myhumankit",
-                "repository": "myworkshop-components-library"
+                "github_username": "jlebunetel",
+                "twitter_username": "jlebunetel"
             }
         ],
         "steps": [
             {
                 "title": "assemblage",
-                "content": "Rassembler les élements de la fusée et les monter selon le plan.",
-                "duration": 5,
-                "components": [
+                "duration": "05:00",
+                "content": [
                     {
-                        "name": "fusée en kit",
-                        "quantity": 1
+                        "paragraph": {
+                            "content": "Rassembler les élements de la fusée et les monter selon le plan."
+                        }
+                    },
+                    {
+                        "alert": {
+                            "class": "danger",
+                            "content": "Attention aux lions !"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "https://picsum.photos/900/600/?random",
+                            "caption": "Une illustration aléatoire."
+                        }
                     }
-                ],
-                "tools": [
+                ]
+            },
+            {
+                "title": "remplir les réservoirs",
+                "duration": "01:00",
+                "content": [
                     {
-                        "id": "9bb98b6d-3db0-406d-9f6e-d01106c2986c"
-                    },
-                    {
-                        "id": "14581670-4247-4ec8-be8e-fe245de66983"
-                    },
-                    {
-                        "generic_name": "3D printer"
+                        "paragraph": {
+                            "content": "Aller à la station la plus proche et faire le plein."
+                        }
                     }
-                ],
-                "images": [
+                ]
+            },
+            {
+                "title": "allumage",
+                "duration": "00:05",
+                "content": [
                     {
-                        "url": "https://picsum.photos/900/600/?random"
+                        "paragraph": {
+                            "content": "Faire chauffer les moteurs et attacher sa ceinture."
+                        }
                     },
                     {
-                        "url": "https://picsum.photos/900/600/?random"
-                    },
-                    {
-                        "url": "https://picsum.photos/900/600/?random"
-                    },
-                    {
-                        "url": "https://picsum.photos/900/600/?random"
+                        "image": {
+                            "url": "images/rocket.jpg",
+                            "caption": "Ça chauffe !"
+                        }
                     }
                 ]
             }
