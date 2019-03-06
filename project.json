@@ -54,6 +54,40 @@
                             "caption": "Une illustration aléatoire."
                         }
                     }
+                ],
+                "inputs": [
+                    {
+                        "component": {
+                            "id": "fusee-en-kit",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "id": "arduino",
+                            "quantity": 1,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-electronic-library"
+                        }
+                    },
+                    {
+                        "tool": {
+                            "id": "tournevis"
+                        }
+                    },
+                    {
+                        "tool": {
+                            "id": "imprimante-3d",
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-tools-library"
+                        }
+                    },
+                    {
+                        "file": {
+                            "name": "Plan de montage",
+                            "url": "models/drawing.pdf"
+                        }
+                    }
                 ]
             },
             {
