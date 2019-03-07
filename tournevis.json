@@ -1,0 +1,21 @@
+{
+    "tool": {
+        "full_name": "Tournevis",
+        "short_description": "Un tournevis est un outil de poing utilisé entre autres pour l'insertion et le retrait des vis dans les matériaux.",
+        "lang": "fr",
+        "brand": "ACME Corporation",
+        "model": "Petit tournevis",
+        "featured_image": {
+            "image": {
+                "url": "https://fr.wikipedia.org/wiki/Tournevis#/media/File:Yellow-flathead-screwdriver.jpg",
+                "caption": "Tournevis"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Tournevis",
+                "text": "Tournevis sur Wikipédia"
+            }
+        ]
+    }
+}
