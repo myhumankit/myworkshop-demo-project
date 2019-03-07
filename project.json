@@ -116,6 +116,16 @@
                             "caption": "Ça chauffe !"
                         }
                     }
+                ],
+                "inputs": [
+                    {
+                        "component": {
+                            "id": "arduino",
+                            "quantity": 2,
+                            "github_organization": "myhumankit",
+                            "github_repository": "myworkshop-electronic-library"
+                        }
+                    }
                 ]
             }
         ]
