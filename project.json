@@ -58,13 +58,13 @@
                 "inputs": [
                     {
                         "component": {
-                            "id": "fusee-en-kit",
+                            "slug": "fusee-en-kit",
                             "quantity": 1
                         }
                     },
                     {
                         "component": {
-                            "id": "arduino",
+                            "slug": "arduino",
                             "quantity": 1,
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-electronic-library"
@@ -72,12 +72,12 @@
                     },
                     {
                         "tool": {
-                            "id": "tournevis"
+                            "slug": "tournevis"
                         }
                     },
                     {
                         "tool": {
-                            "id": "imprimante-3d",
+                            "slug": "imprimante-3d",
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-tools-library"
                         }
@@ -120,7 +120,7 @@
                 "inputs": [
                     {
                         "component": {
-                            "id": "arduino",
+                            "slug": "arduino",
                             "quantity": 2,
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-electronic-library"
