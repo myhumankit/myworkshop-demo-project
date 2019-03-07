@@ -98,6 +98,12 @@
                         "paragraph": {
                             "content": "Aller à la station la plus proche et faire le plein."
                         }
+                    },
+                    {
+                        "code": {
+                            "language": "cpp",
+                            "source": "void setup() {\n  // put your setup code here, to run once:\n\n}\n\nvoid loop() {\n  // put your main code here, to run repeatedly:\n\n}"
+                        }
                     }
                 ]
             },
@@ -114,6 +120,12 @@
                         "image": {
                             "url": "images/rocket.jpg",
                             "caption": "Ça chauffe !"
+                        }
+                    },
+                    {
+                        "youtube": {
+                            "id": "nmjH3eN3otM",
+                            "caption": "Décollage d'Ariane 5"
                         }
                     }
                 ],
