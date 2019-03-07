@@ -1,0 +1,26 @@
+{
+    "component": {
+        "full_name": "Fusée en kit",
+        "short_description": "Toutes les pièces détachées nécessaires à la fabrication d'une fusée.",
+        "lang": "fr",
+        "unit": "1",
+        "cost": {
+            "value": 1000000,
+            "currency": "USD"
+        },
+        "brand": "ACME Corporation",
+        "featured_image": {
+            "image": {
+                "url": "images/rocket.jpg",
+                "caption": "Fusée en kit"
+            }
+        },
+        "model": "Rocket v1",
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Fus%C3%A9e_(astronautique)",
+                "text": "Fusée (Wikipédia)"
+            }
+        ]
+    }
+}
