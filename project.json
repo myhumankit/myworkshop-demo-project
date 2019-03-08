@@ -104,6 +104,11 @@
                             "language": "cpp",
                             "source": "void setup() {\n  // put your setup code here, to run once:\n\n}\n\nvoid loop() {\n  // put your main code here, to run repeatedly:\n\n}"
                         }
+                    },
+                    {
+                        "paragraph": {
+                            "content": "# Markdown Tutorial\nThis is a markdown tutorial. \n\nMarkdown supports a number of cool features, namely:\n\n  - foo; \n  - bar;\n  - baz.\n  \nIt is also possible to include code:\n\n    var foo = 'bar';\n    \n    var baz = {\n      markdown: 'is great',\n      myworkshop: 'is awesome'\n    }\n\nDon't forget to check the [code][1].\n\n[1]: https://github.com/myhumankit/myworkshop\n"
+                        }
                     }
                 ]
             },
