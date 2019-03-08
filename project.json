@@ -79,7 +79,15 @@
             {
                 "title": "remplir les réservoirs",
                 "duration": 3600,
-                "content": "Aller à la station la plus proche et faire le plein.\n"
+                "content": "Aller à la station la plus proche et faire le plein.\n",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "kerosene",
+                            "quantity": 500
+                        }
+                    }
+                ]
             },
             {
                 "title": "allumage",

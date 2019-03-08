@@ -1,0 +1,12 @@
+{
+    "component": {
+        "full_name": "Kérosène",
+        "short_description": "Le kérosène est un mélange d'hydrocarbures contenant des alcanes (CnH2n+2) de formule chimique allant de C10H22 à C14H30.",
+        "lang": "fr",
+        "unit": "L",
+        "cost": {
+            "value": 5,
+            "currency": "EUR"
+        }
+    }
+}
