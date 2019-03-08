@@ -5,11 +5,7 @@
         "short_description": "Un vaisseau spatial pour partir à la conquête du monde !",
         "lang": "fr",
         "license": "CC BY",
-        "about": {
-            "paragraph": {
-                "content": "Et pourquoi ne pas construire une fusée ?"
-            }
-        },
+        "about": "Et pourquoi ne pas construire une fusée ?",
         "featured_image": {
             "image": {
                 "url": "images/rocket.jpg",
@@ -36,18 +32,8 @@
             {
                 "title": "assemblage",
                 "duration": 300,
-                "content": [
-                    {
-                        "paragraph": {
-                            "content": "Rassembler les élements de la fusée et les monter selon le plan."
-                        }
-                    },
-                    {
-                        "alert": {
-                            "class": "danger",
-                            "content": "Attention aux lions !"
-                        }
-                    },
+                "content": "Rassembler les élements de la fusée et les monter selon le plan.",
+                "media": [
                     {
                         "image": {
                             "url": "https://picsum.photos/900/600/?random",
@@ -93,34 +79,13 @@
             {
                 "title": "remplir les réservoirs",
                 "duration": 3600,
-                "content": [
-                    {
-                        "paragraph": {
-                            "content": "Aller à la station la plus proche et faire le plein."
-                        }
-                    },
-                    {
-                        "code": {
-                            "language": "cpp",
-                            "source": "void setup() {\n  // put your setup code here, to run once:\n\n}\n\nvoid loop() {\n  // put your main code here, to run repeatedly:\n\n}"
-                        }
-                    },
-                    {
-                        "paragraph": {
-                            "content": "# Markdown Tutorial\nThis is a markdown tutorial. \n\nMarkdown supports a number of cool features, namely:\n\n  - foo; \n  - bar;\n  - baz.\n  \nIt is also possible to include code:\n\n    var foo = 'bar';\n    \n    var baz = {\n      markdown: 'is great',\n      myworkshop: 'is awesome'\n    }\n\nDon't forget to check the [code][1].\n\n[1]: https://github.com/myhumankit/myworkshop\n"
-                        }
-                    }
-                ]
+                "content": "Aller à la station la plus proche et faire le plein.\n"
             },
             {
                 "title": "allumage",
                 "duration": 300,
-                "content": [
-                    {
-                        "paragraph": {
-                            "content": "Faire chauffer les moteurs et attacher sa ceinture."
-                        }
-                    },
+                "content": "Faire chauffer les moteurs et attacher sa ceinture.",
+                "media": [
                     {
                         "image": {
                             "url": "images/rocket.jpg",
