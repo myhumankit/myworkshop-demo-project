@@ -87,6 +87,12 @@
                             "quantity": 500
                         }
                     }
+                ],
+                "alerts": [
+                    {
+                        "class": "danger",
+                        "message": "Ne surtout pas fumer !"
+                    }
                 ]
             },
             {
@@ -127,6 +133,12 @@
                             "github_organization": "myhumankit",
                             "github_repository": "myworkshop-electronic-library"
                         }
+                    }
+                ],
+                "alerts": [
+                    {
+                        "class": "warning",
+                        "message": "Attachez votre ceinture !"
                     }
                 ]
             }
