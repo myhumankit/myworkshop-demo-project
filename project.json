@@ -107,12 +107,6 @@
                         }
                     },
                     {
-                        "youtube": {
-                            "id": "nmjH3eN3otM",
-                            "caption": "Décollage d'Ariane 5"
-                        }
-                    },
-                    {
                         "image": {
                             "url": "https://picsum.photos/900/600/?random",
                             "caption": "Une illustration aléatoire."
