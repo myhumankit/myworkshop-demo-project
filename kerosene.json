@@ -7,6 +7,12 @@
         "cost": {
             "value": 5,
             "currency": "EUR"
+        },
+        "featured_image": {
+            "image": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Question.svg",
+                "caption": "Kérosène"
+            }
         }
     }
 }
