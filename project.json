@@ -169,6 +169,42 @@
                         "message": "Attachez votre ceinture !"
                     }
                 ]
+            },
+            {
+                "title": "Construction de la rampe de lancement",
+                "duration": 300,
+                "content": "Construction de la rampe de lancement.",
+                "inputs": [
+                    {
+                        "sheet": {
+                            "quantity": 3,
+                            "material": "steel",
+                            "thickness": 10,
+                            "length": 2000,
+                            "width": 1200
+                        }
+                    },
+                    {
+                        "profile": {
+                            "quantity": 5,
+                            "material": "fir",
+                            "length": 500,
+                            "section": {
+                                "type": "square_bar",
+                                "width": 20
+                            }
+                        }
+                    },
+                    {
+                        "sheet": {
+                            "quantity": 2,
+                            "material": "OSB 3",
+                            "thickness": 10,
+                            "length": 1500,
+                            "width": 300
+                        }
+                    }
+                ]
             }
         ]
     }
