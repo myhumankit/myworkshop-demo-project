@@ -187,11 +187,22 @@
                     {
                         "profile": {
                             "quantity": 5,
-                            "material": "fir",
+                            "material": "aluminum",
                             "length": 500,
                             "section": {
                                 "type": "square_bar",
                                 "width": 20
+                            }
+                        }
+                    },
+                    {
+                        "cleat": {
+                            "quantity": 7,
+                            "material": "fir",
+                            "length": 250,
+                            "section": {
+                                "type": "square_bar",
+                                "width": 28
                             }
                         }
                     },
