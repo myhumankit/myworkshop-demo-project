@@ -214,6 +214,67 @@
                             "length": 1500,
                             "width": 300
                         }
+                    },
+                    {
+                        "screw": {
+                            "quantity": 8,
+                            "material": "bronze",
+                            "head": "H",
+                            "head_option": "false",
+                            "driving": "false",
+                            "threading": "M",
+                            "diameter": 4,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "screw": {
+                            "quantity": 4,
+                            "material": "steel",
+                            "head": "C",
+                            "head_option": "false",
+                            "driving": "HC",
+                            "threading": "M",
+                            "diameter": 10,
+                            "length": 30,
+                            "threaded_length": 16,
+                            "extremity": "CH",
+                            "quality": "8.8"
+                        }
+                    },
+                    {
+                        "nut": {
+                            "quantity": 15,
+                            "material": "brass",
+                            "threading": "MF",
+                            "diameter": 3,
+                            "type": "Jam"
+                        }
+                    },
+                    {
+                        "nut": {
+                            "quantity": 4,
+                            "material": "steel",
+                            "threading": "M",
+                            "diameter": 10,
+                            "type": "Hex"
+                        }
+                    },
+                    {
+                        "washer": {
+                            "quantity": 9,
+                            "material": "steel",
+                            "diameter": 4,
+                            "type": "Flat N"
+                        }
+                    },
+                    {
+                        "washer": {
+                            "quantity": 15,
+                            "material": "aluminum",
+                            "diameter": 3.5,
+                            "type": "Flat L"
+                        }
                     }
                 ]
             }
